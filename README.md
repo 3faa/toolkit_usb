@@ -23,7 +23,6 @@ Built with **Ventoy**. Plug it in, pick a tool from a menu, and work, even when 
 7. [Glossary](#glossary-simple-definitions)
 8. [Troubleshooting](#troubleshooting)
 9. [Legal and safety notes](#legal-and-safety-notes)
-10. [What I learned](#what-i-learned)
 
 ---
 
@@ -152,7 +151,7 @@ This USB has **five** different WinPE systems. They are alternatives, because ea
 ![Hiren's tools menu](screenshots/11-hbcd-tools.png)
 
 #### 2. Medicat USB (`Medicat_USB_v2`)
-- **Link:** [AlternativeTo project page](https://www.alternativeto.net/software/medicat-dvd/about/) (listed there as discontinued, so check its current status)
+- **Link:**[https://medicatusb.com](https://medicatusb.com/) 
 - **What it is:** a complete **PC repair toolkit** also built on Ventoy. Its main menu groups tools into categories: Windows boot tools, partition tools, diagnostic tools, antivirus, data recovery and Linux utilities.
 - **Good for:** the "do everything" option. It also includes Linux-based tools and memory testing.
 - **Size:** very large (~29 GB), because it contains many environments in one.
@@ -269,21 +268,11 @@ Every tool in this project was tested in a virtual machine (VirtualBox) so the r
 ### Official sources
 - Ventoy: https://www.ventoy.net
 - Hiren's BootCD PE: https://www.hirensbootcd.org
-- Medicat USB: https://www.alternativeto.net/software/medicat-dvd/about/
+- Medicat USB: https://medicatusb.com/
 - AnkhTech WinPE: https://ankhtech.org/winpe.html
 - Bob Ombs Win10PE: https://archive.org/details/bob-ombs-windows-10-pe-iso (no official site)
 - Windows PE (Microsoft): https://learn.microsoft.com/windows-hardware/manufacture/desktop/winpe-intro
 - Kali Linux: https://www.kali.org
 - Microsoft Windows downloads: https://www.microsoft.com/software-download
 
----
-
-## What I learned
-
-- How the **boot process** works (BIOS/UEFI, boot order, Secure Boot)
-- How to build and customize a **multiboot USB** with Ventoy
-- Difference between **installers**, **live systems** and **WinPE rescue environments**
-- Basics of **data recovery, disk imaging and cloning**
-- Using **Kali Linux persistence** safely for learning
-- Testing every tool inside a **virtual machine** and documenting it clearly
 
