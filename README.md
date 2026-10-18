@@ -21,8 +21,7 @@ Built with **Ventoy**. Plug it in, pick a tool from a menu, and work, even when 
 5. [How to use it, step by step](#how-to-use-it-step-by-step)
 6. [The tools, one by one](#the-tools-one-by-one)
 7. [Glossary](#glossary-simple-definitions)
-8. [Troubleshooting](#troubleshooting)
-9. [Legal and safety notes](#legal-and-safety-notes)
+
 
 ---
 
